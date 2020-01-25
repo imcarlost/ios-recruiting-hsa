@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  desafio-ios-concrete
-//
-//  Created by Carlos Martinez on 22-01-20.
-//  Copyright © 2020 Carlos Martinez. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
@@ -40,7 +32,4 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     func applicationWillTerminate(_ application: UIApplication) {
         // Called when the application is about to terminate. Save data if appropriate. See also applicationDidEnterBackground:.
     }
-
-
 }
-
